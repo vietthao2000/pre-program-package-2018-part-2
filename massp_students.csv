@@ -1,0 +1,59 @@
+Subject,City,Gender
+Experimental-Chem,Hải Dương,Nam
+Experimental-Chem,Hà Nội,Nữ
+Experimental-Chem,Hà Nội,Nữ
+Experimental-Chem,Hà Nội,Nữ
+Experimental-Chem,Hà Nội,Nữ
+Theoretical-Chem,Hải Phòng,Nữ
+Theoretical-Chem,Hồ Chí Minh,Nam
+Theoretical-Chem,Hồ Chí Minh,Nữ
+Theoretical-Chem,Hà Nội,Nữ
+Theoretical-Chem,Hà Nội,Nam
+Physics,Cà Mau,Nam
+Physics,Hải Dương,Nam
+Physics,Hải Dương,Nam
+Physics,Hồ Chí Minh,Nam
+Physics,Hồ Chí Minh,Nam
+Physics,Hồ Chí Minh,Nam
+Physics,Hồ Chí Minh,Nam
+Physics,Hồ Chí Minh,Nam
+Physics,Hồ Chí Minh,Nam
+Physics,Hồ Chí Minh,Nam
+Physics,Nghệ An,Nam
+Physics,Phú Yên,Nam
+Physics,Thái Bình,Nam
+Physics,Hà Nội,Nam
+Physics,Hà Nội,Nam
+Physics,Hà Nội,Nam
+Physics,Vũng Tàu,Nam
+Physics,Hà Nội,Nam
+Physics,Hải Phòng,Nữ
+CompSci,Buôn Ma Thuột,Nam
+CompSci,Cần Thơ,Nam
+CompSci,Hải Dương,Nữ
+CompSci,Hồ Chí Minh,Nam
+CompSci,Hồ Chí Minh,Nam
+CompSci,Hà Nội,Nữ
+CompSci,Hà Nội,Nam
+CompSci,Hà Nội,Nam
+CompSci,Hà Nội,Nữ
+CompSci,Hà Nội,Nam
+Math,"Andover, MA",Nam
+Math,Bắc Ninh,Nữ
+Math,Đà Nẵng,Nam
+Math,Hà Nam,Nữ
+Math,Hải Dương,Nữ
+Math,Hải Phòng,Nam
+Math,Hồ Chí Minh,Nam
+Math,Nghệ An,Nam
+Math,Nghệ An,Nữ
+Math,Ninh Thuận,Nam
+Math,Ninh Thuận,Nam
+Math,"Old Bethpage, New York",Nam
+Math,Quảng Nam,Nam
+Math,Quảng Nam,Nam
+Math,Quảng Trị,Nữ
+Math,Thái Bình,Nam
+Math,Hà Nội,Nữ
+Math,Hà Nội,Nam
+Math,Hà Nội,Nam
